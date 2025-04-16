@@ -81,4 +81,12 @@ While my current approach was with a basic NN, more complex and sophisticated mo
 # Model Flow
 ![image](https://github.com/user-attachments/assets/78a643ed-44eb-44bc-aaa0-06550f0fd9ac)
 
-
+# References
+- Amirzadeh, R., Nazari, A., Thiruvady, D. (2022). Applying artificial intelligence in cryptocurrency markets: A survey. Algorithms, 15(11), 428. https://doi.org/10.3390/a15110428
+- Agarwal, R., Melnick, L., Frosst, N., Zhang, X., Lengerich, B., Caurana, R., Hinton, G. (2021). Neural Additive Models: Interpretable Machine Learning with Neural Nets. arXiv, 2004, 13912. https://doi.org/10.48550/arXiv.2004.13912
+- D’Amato, V., Levantesi, S., Piscopo, G. (2022). Deep learning in predicting cryptocurrency volatility. Physica A: Statistical Mechanics and its Applications, 596, 127158. https://doi.org/10.1016/j.physa.2022.127158
+- Derbentsev, V., Babenko, V., Khrustalev, K., Obruch, H., Khrustalova, S. (2021). Comparative performance of machine learning ensemble algorithms for forecasting cryptocurrency prices. International Journal of Engineering, 34(1), 140–148. https://doi.org/10.5829/ije.2021.34.01a.16
+- Hamayel, M. J., Owda, A. Y. (2021). A novel cryptocurrency price prediction model using gru, lstm and bi-lstm machine learning algorithms. AI, 2(4), 477–496. https://doi.org/10.3390/ai2040030
+- Kyriazis, N., Papadamou, S., Corbet, S. (2020). A systematic review of the bubble dynamics of cryptocurrency prices. Research in International Business and Finance, 54, 101254. https://doi.org/10.1016/j.ribaf.2020.101254
+- Khedr, A. M., Arif, I., El-Bannany M., Alhashmi, S. M., Sreedharan, M. (2021). Cryptocurrency price prediction using traditional statistical and machine-learning techniques: A survey. Intelligent Systems in Accounting, Finance and Management, 28(1), 3–34. https://doi.org/10.1002/isaf.1488
+- Mudassir, M., Bennbaia, S., Unal, D., Hammoudeh, M. (2020). Time-series forecasting of bitcoin prices using high-dimensional features: a machine learning approach. Neural computing and applications, 1–15. https://doi.org/10.1007/s00521-020-05129-6
