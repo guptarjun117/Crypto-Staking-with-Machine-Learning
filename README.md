@@ -70,7 +70,7 @@ While my current approach was with a basic NN, more complex and sophisticated mo
 | 13  | 0.083418 | 0.308586 | 0.031174 | 0.914826 | 0.000976 | 0.000705 |
 | 14  | 0.063197 | 0.077682 | 0.071640 | 0.787938 | 0.000770 | 0.000474 |
 
-## R^2
+## R²
 |        | MWA ETH | MWA SOL | MLR ETH | MLR SOL | Neural Network ETH | Neural Network SOL |
 |--------|---------|---------|---------|---------|---------------------|---------------------|
 | Score  | 0.907581 | 0.684841 | 0.820568 | 0.155165 | 0.985346 | 0.987511 |
