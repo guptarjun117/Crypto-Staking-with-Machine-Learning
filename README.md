@@ -49,3 +49,36 @@ The unexplored features are shown below:
 These unexplored features are considered for potentially improving the predictive capabilities of my model, for example, the epoch-specific variables would improve the model by capturing the variation of patterns across epochs.
 
 While my current approach was with a basic NN, more complex and sophisticated models like Graph Neural Networks (GNN) can be utilized with the availability of more data mentioned above. A model like GNN visualizes the inputs in a non-Euclidean graph space to capture the spatial and temporal features to understand the relationship between all the input features. However, it must be noted that with approaches like these the computational time and costs increase.
+
+# Results Table
+## RMSE
+
+| Day | MWA ETH | MWA SOL | MLR ETH | MLR SOL | Neural Network ETH | Neural Network SOL |
+|-----|---------|---------|---------|---------|---------------------|---------------------|
+| 1   | 0.147435 | 0.184336 | 0.184306 | 0.520556 | 0.000791 | 0.000266 |
+| 2   | 0.001327 | 0.063364 | 0.138986 | 0.290864 | 0.001040 | 0.000172 |
+| 3   | 0.115947 | 0.098552 | 0.381172 | 0.687830 | 0.001205 | 0.000199 |
+| 4   | 0.083451 | 0.179888 | 0.357009 | 0.425590 | 0.001274 | 0.000021 |
+| 5   | 0.146220 | 0.545214 | 0.233585 | 0.004062 | 0.001392 | 0.000107 |
+| 6   | 0.015869 | 0.272716 | 0.045009 | 0.103953 | 0.001081 | 0.000370 |
+| 7   | 0.142100 | 0.648152 | 0.247132 | 0.584950 | 0.000950 | 0.000649 |
+| 8   | 0.047125 | 0.106593 | 0.092552 | 0.190004 | 0.000801 | 0.001159 |
+| 9   | 0.261012 | 0.146701 | 0.110155 | 0.619603 | 0.000840 | 0.000558 |
+| 10  | 0.015326 | 0.007399 | 0.410259 | 0.163579 | 0.000953 | 0.000479 |
+| 11  | 0.024733 | 0.200291 | 0.011594 | 0.258413 | 0.000592 | 0.000588 |
+| 12  | 0.043240 | 0.138849 | 0.099629 | 0.269788 | 0.000548 | 0.000617 |
+| 13  | 0.083418 | 0.308586 | 0.031174 | 0.914826 | 0.000976 | 0.000705 |
+| 14  | 0.063197 | 0.077682 | 0.071640 | 0.787938 | 0.000770 | 0.000474 |
+
+## R^2
+|        | MWA ETH | MWA SOL | MLR ETH | MLR SOL | Neural Network ETH | Neural Network SOL |
+|--------|---------|---------|---------|---------|---------------------|---------------------|
+| Score  | 0.907581 | 0.684841 | 0.820568 | 0.155165 | 0.985346 | 0.987511 |
+
+# Activation Function
+![CodeCogsEqn](https://github.com/user-attachments/assets/f52304df-d1ac-4d08-b883-4e68e4bbd065)
+
+# Model Flow
+![image](https://github.com/user-attachments/assets/78a643ed-44eb-44bc-aaa0-06550f0fd9ac)
+
+
